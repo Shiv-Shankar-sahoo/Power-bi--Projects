@@ -5,10 +5,10 @@ This project aims to provide comprehensive insights into the career statistics o
 
 Features:
 
-Detailed statistics covering batting performance in Test, ODI, and T20 formats.
+* Detailed statistics covering batting performance in Test, ODI, and T20 formats.
 
-Records and milestones achieved by Virat Kohli throughout his career.
+* Records and milestones achieved by Virat Kohli throughout his career.
 
-Interactive visualizations for better understanding and analysis of the data.
+* Interactive visualizations for better understanding and analysis of the data.
 
-Clean and well-organized codebase for easy exploration and extension.
+* Clean and well-organized codebase for easy exploration and extension.
